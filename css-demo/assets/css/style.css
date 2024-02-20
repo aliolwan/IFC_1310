@@ -1,0 +1,25 @@
+/* ---- CSS Demo ---- */
+
+body{
+background-color: darkgreen;
+}
+/*  ---------------Box Sizing-----------------  */
+
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+  /*  --------------- Global Styles -----------------  */
+
+  body{
+    font-family: "Open Sans", sans-serif;
+  }
+
+  header.primary{
+    background:red;
+  }
